@@ -1,0 +1,12 @@
+[
+  { "_id": "producto1", "nombre": "Smartphone", "categorias": ["categoria1", "categoria2"] },
+  { "_id": "producto2", "nombre": "Camiseta", "categorias": ["categoria2"] },
+  { "_id": "producto3", "nombre": "Sofá", "categorias": ["categoria3"] },
+  { "_id": "producto4", "nombre": "Muñeca", "categorias": ["categoria4"] },
+  { "_id": "producto5", "nombre": "Pelota de fútbol", "categorias": ["categoria5"] },
+  { "_id": "producto6", "nombre": "Tablet", "categorias": ["categoria1", "categoria2"] },
+  { "_id": "producto7", "nombre": "Cámara fotográfica", "categorias": ["categoria1"] },
+  { "_id": "producto8", "nombre": "Chaqueta", "categorias": ["categoria2"] },
+  { "_id": "producto9", "nombre": "Lámpara de mesa", "categorias": ["categoria3"] },
+  { "_id": "producto10", "nombre": "Triciclo", "categorias": ["categoria4"] }
+]

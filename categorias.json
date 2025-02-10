@@ -1,0 +1,7 @@
+[
+  { "_id": "categoria1", "nombre": "Electrónica" },
+  { "_id": "categoria2", "nombre": "Ropa" },
+  { "_id": "categoria3", "nombre": "Hogar" },
+  { "_id": "categoria4", "nombre": "Juguetes" },
+  { "_id": "categoria5", "nombre": "Deportes" }
+]
